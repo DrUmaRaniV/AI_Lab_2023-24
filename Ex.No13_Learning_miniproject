@@ -11,5 +11,6 @@ To write a program to train the classifier for -----------------.
 ### Output:
 
 
+
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
